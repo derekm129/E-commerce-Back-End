@@ -1,10 +1,10 @@
 # E-commerce Back End 
 
 ## Description
-- My motivation for this project was to create a working E-Commerce backend.
-- I built this project using JavaScript, Node.js, Sequelize, and MySQL2.
-- This app allows the user to interact with an e-commerce database.
-- I learned from making this application how to use Sequelize and Insomnia.
+- My goal for this project was to create a working E-Commerce backend.
+  I built this project using JavaScript, Node.js, Sequelize, and MySQL2.
+  This app allows the user to interact with an e-commerce database.
+  I learned from making this application how to use Sequelize and Insomnia.
 
 ## Installation
 - This application requires Node.js, Express.js, MySQL2, and Sequelize.
