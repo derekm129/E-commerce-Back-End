@@ -1,17 +1,15 @@
 # E-commerce Back End 
 
 ## Description
-- My goal for this project was to create a working E-Commerce backend.
-  I built this project using JavaScript, Node.js, Sequelize, and MySQL2.
-  This app allows the user to interact with an e-commerce database.
-  I learned from making this application how to use Sequelize and Insomnia.
+- The objective of this project was to develop a fully functional backend system for an e-commerce application.
+  Leveraging JavaScript, Node.js, Sequelize, and MySQL2, this application provides users with seamless interaction capabilities with an e-commerce database.
+  Through the process of building this application, I acquired valuable insights into utilizing Sequelize for database management and Insomnia for API testing.
 
 ## Installation
-- This application requires Node.js, Express.js, MySQL2, and Sequelize.
+- To run this application, ensure you have Node.js, Express.js, MySQL2, and Sequelize installed.
 
 ## Usage
-- Source the database with MySql. Enter 'node seeds/index.js' in the terminal to seed the database. Enter 'node server.js' to start the server.
-
+- To initialize the database, use MySQL to source the provided schema. Then, seed the database by running 'node seeds/index.js' in the terminal. Finally, start the server by running 'node server.js'.
 ![Screenshot](./Develop/assets/images/screenshot.png)
 
 Video Demonstration:
@@ -19,7 +17,7 @@ Video Demonstration:
 https://drive.google.com/file/d/1WSVQ3ujOncJ-88HxiCdpG1zRwAbeiLro/view
 
 ## Credits
-This project was independantly developed.
+This project was independently developed.
 
 ## License
-MIT
+This project is licensed unded the MIT license.
