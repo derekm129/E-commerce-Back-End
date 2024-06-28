@@ -2,7 +2,7 @@
 
 ## Description
 - The objective of this project was to develop a fully functional backend system for an e-commerce application.
-  Leveraging JavaScript, Node.js, Sequelize, and MySQL2, this application provides users with seamless interaction capabilities with an e-commerce database.
+  Leveraging JavaScript, Node.js, Sequelize, and MySQL2, this application provides users interaction capabilities with an e-commerce database.
   Through the process of building this application, I acquired valuable insights into utilizing Sequelize for database management and Insomnia for API testing.
 
 ## Installation
